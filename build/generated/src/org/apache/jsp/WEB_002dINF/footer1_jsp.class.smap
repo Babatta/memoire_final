@@ -1,0 +1,21 @@
+SMAP
+footer1_jsp.java
+JSP
+*S JSP
+*F
++ 0 en_tete.jsp
+WEB-INF/en_tete.jsp
++ 1 taglib.jsp
+WEB-INF/taglib.jsp
++ 2 footer1.jsp
+WEB-INF/footer1.jsp
++ 3 footer.jsp
+WEB-INF/footer.jsp
+*L
+5,12:51
+17,2:64
+18,3:66
+5#1,6:68
+5#2,243:73
+5#3,9:315
+*E

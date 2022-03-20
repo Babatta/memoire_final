@@ -1,0 +1,24 @@
+SMAP
+listeBatiment_jsp.java
+JSP
+*S JSP
+*F
++ 0 listeBatiment.jsp
+listeBatiment.jsp
++ 1 headerAd.jsp
+WEB-INF/headerAd.jsp
++ 2 footerAd.jsp
+WEB-INF/footerAd.jsp
+*L
+1,2:65
+1#1,195:66
+2#0,24:261
+25:411,11
+26,2:422
+28,3:424,3
+31,2:433,5
+33,5:443
+37,16:287
+5#2,85:303
+52#0,6:388
+*E

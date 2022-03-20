@@ -1,0 +1,27 @@
+SMAP
+AccueilAdmin2_jsp.java
+JSP
+*S JSP
+*F
++ 0 headerAd.jsp
+WEB-INF/headerAd.jsp
++ 1 en_tete.jsp
+WEB-INF/en_tete.jsp
++ 2 taglib.jsp
+WEB-INF/taglib.jsp
++ 3 AccueilAdmin2.jsp
+WEB-INF/AccueilAdmin2.jsp
++ 4 footer.jsp
+WEB-INF/footer.jsp
++ 5 footerAd.jsp
+WEB-INF/footerAd.jsp
+*L
+5,556:58
+5#1,12:613
+17,2:626
+18,3:628
+5#2,13:630
+5#3,868:642
+5#4,9:1510
+5#5,86:1518
+*E

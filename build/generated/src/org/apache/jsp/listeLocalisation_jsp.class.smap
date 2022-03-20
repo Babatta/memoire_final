@@ -1,0 +1,35 @@
+SMAP
+listeLocalisation_jsp.java
+JSP
+*S JSP
+*F
++ 0 headerAd.jsp
+WEB-INF/headerAd.jsp
++ 1 header1.jsp
+WEB-INF/header1.jsp
++ 2 taglib.jsp
+WEB-INF/taglib.jsp
++ 3 listeLocalisation.jsp
+listeLocalisation.jsp
++ 4 footerAd.jsp
+WEB-INF/footerAd.jsp
++ 5 footer1.jsp
+WEB-INF/footer1.jsp
+*L
+1,195:78
+5#1,91:273
+5#2,13:363
+1#3,4:375
+1#0,195:378
+4#3,29:573
+32:894,11
+33,2:905
+35,5:907,3
+40,2:922,7
+42,5:936
+46,22:604
+5#4,85:626
+67#3,7:711
+5#5,74:717
+5#4,85:791
+*E

@@ -1,0 +1,16 @@
+SMAP
+AccueilAdmin2_jsp.java
+JSP
+*S JSP
+*F
++ 0 headerAd.jsp
+WEB-INF/headerAd.jsp
++ 1 AccueilAdmin2.jsp
+AccueilAdmin2.jsp
++ 2 footerAd.jsp
+WEB-INF/footerAd.jsp
+*L
+1,183:50
+1#1,499:233
+5#2,85:732
+*E
